@@ -14,3 +14,8 @@
 	Text Domain: hello-elementor
 	Tags: accessibility-ready, flexible-header, custom-colors, custom-menu, custom-logo, featured-images, rtl-language-support, threaded-comments, translation-ready,
 */
+
+.hello {
+	font-size: 20px;
+	background: red;
+}
